@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BasicCalculator
+namespace Calculatory McCalculator-face
 {
     class Program
     {
@@ -19,7 +19,7 @@ namespace BasicCalculator
             double windchill = 35.74 + (0.6215 * temp) - (35.75 * windExp) + (0.4275 * temp * windExp);
             Console.WriteLine("The wind chill is" + windchill);
 
-            // int.Parse will take a string data type and convert it to an int data type
+            //bagels are just seagulls that fly over the bay
             
         }
     }
